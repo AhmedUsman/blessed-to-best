@@ -1,0 +1,137 @@
+{
+  "serenity-raspberry-tea": {
+    "sku": "",
+    "image": "/assets/products/serenity.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "beauty-shot-collagen": {
+    "sku": "",
+    "image": "/assets/products/beauty-shot-collagen.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "electrolyte-drink-mix": {
+    "sku": "",
+    "image": "/assets/products/electrolyte-drink-mix.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "hydro-drops": {
+    "sku": "",
+    "image": "/assets/products/hydro-drops.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "l-carnitine-shot": {
+    "sku": "",
+    "image": "/assets/products/l-carnitine-shot.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "cc-body-lotion": {
+    "sku": "",
+    "image": "/assets/products/cc-body-lotion.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "cleansing-balm": {
+    "sku": "",
+    "image": "/assets/products/cleansing-balm.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "glow-face-mist": {
+    "sku": "",
+    "image": "/assets/products/glow-face-mist.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "highlighter-stick": {
+    "sku": "",
+    "image": "/assets/products/highlighter-stick.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "creatine": {
+    "sku": "",
+    "image": "/assets/products/creatine.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "pre-workout": {
+    "sku": "",
+    "image": "/assets/products/pre-workout.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "aqua-eye-cream": {
+    "sku": "",
+    "image": "/assets/products/aqua-eye-cream.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "tea-tree-cream-balsam": {
+    "sku": "",
+    "image": "/assets/products/tea-tree-cream-balsam.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "tea-tree-face-toner": {
+    "sku": "",
+    "image": "/assets/products/tea-tree-face-toner.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "tea-tree-face-wash": {
+    "sku": "",
+    "image": "/assets/products/tea-tree-face-wash.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "tea-tree-serum": {
+    "sku": "",
+    "image": "/assets/products/tea-tree-serum.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "tea-tree-soap": {
+    "sku": "",
+    "image": "/assets/products/tea-tree-soap.webp",
+    "source": "Provided FARMASI product materials"
+  },
+  "cleanse-reset-cool-lime": {
+    "sku": "1002971",
+    "image": "/assets/products/cleanse-reset-cool-lime.webp",
+    "source": "Farmasi US product record, SKU 1002971"
+  },
+  "cleanse-reset-crisp-watermelon": {
+    "sku": "1002968",
+    "image": "/assets/products/cleanse-reset-crisp-watermelon.webp",
+    "source": "Farmasi US product record, SKU 1002968"
+  },
+  "meal-replacement-vanilla": {
+    "sku": "1000697",
+    "image": "https://content.farmasius.com/Product/1000697_400.jpg",
+    "source": "Farmasi official product-image SKU 1000697"
+  },
+  "meal-replacement-strawberry": {
+    "sku": "1000698",
+    "image": "https://content.farmasius.com/Product/1000698_400.jpg",
+    "source": "Farmasi official product-image SKU 1000698"
+  },
+  "meal-replacement-chocolate": {
+    "sku": "1000699",
+    "image": "https://content.farmasius.com/Product/1000699_400.jpg",
+    "source": "Farmasi official product-image SKU 1000699"
+  },
+  "meal-replacement-cookie-crunch": {
+    "sku": "1002565",
+    "image": "https://shopfarmasi.co/cdn/shop/files/nutriplus_meal_replacement_shake_cookie_crunch.png?v=1767717666",
+    "source": "Farmasi US product record SKU 1002565; preparation verified from indexed Farmasi listing"
+  },
+  "meal-replacement-cream-caramel": {
+    "sku": "1002566",
+    "image": "https://stylesmiami.com/cdn/shop/files/1002566_400_3_1600x.webp?v=1758138064",
+    "source": "Farmasi US product record SKU 1002566"
+  },
+  "apple-cider-vinegar-gummies": {
+    "sku": "1001643",
+    "image": "https://content.farmasius.com/Product/1001643_400.jpg",
+    "source": "Farmasi official product-image SKU 1001643"
+  },
+  "lumi-radiance-gel-cleanser": {
+    "sku": "1000300",
+    "image": "https://content.farmasius.com/Product/1000300_400.jpg",
+    "source": "Farmasi official product-image SKU 1000300"
+  },
+  "resurface-refining-cleanser": {
+    "sku": "1000277",
+    "image": "https://content.mx.farmasi.com/Product/1000277_400.jpg",
+    "source": "Farmasi US indexed product record SKU 1000277"
+  }
+}

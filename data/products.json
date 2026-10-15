@@ -1,0 +1,746 @@
+[
+  {
+    "slug": "serenity-raspberry-tea",
+    "name": "Nutriplus Serenity Raspberry Tea",
+    "short": "Serenity Raspberry Tea",
+    "brand": "Nutriplus",
+    "primary": "wellness",
+    "tags": [
+      "wellness",
+      "relax",
+      "tea"
+    ],
+    "image": "serenity.webp",
+    "size": "30 sachets",
+    "description": "A fruity raspberry herbal blend in a convenient stick format. The supplied product information describes Serenity Tea as caffeine-free and sugar-free and suitable for hot or cold preparation.",
+    "seo": "Explore Nutriplus Serenity Raspberry Tea, including product details, ingredients, how to prepare it, and a link to shop through Tatiana on Farmasi.",
+    "use": "Open one herbal tea sachet into an empty cup. Add hot or cold water and allow it to dissolve before enjoying.",
+    "highlights": [
+      "Raspberry herbal blend",
+      "Hot or cold preparation",
+      "Convenient stick format"
+    ],
+    "ingredients": "Maltodextrin, black tea extract, natural raspberry flavor, green tea extract, citric acid, cardamom extract, mallow extract, hibiscus extract.",
+    "notes": "Product information supplied for this site describes the blend as caffeine-free and sugar-free.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/serenity.webp"
+  },
+  {
+    "slug": "beauty-shot-collagen",
+    "name": "Nutriplus Beauty Shot Collagen",
+    "short": "Beauty Shot Collagen",
+    "brand": "Nutriplus",
+    "primary": "wellness",
+    "tags": [
+      "wellness",
+      "beauty",
+      "collagen"
+    ],
+    "image": "beauty-shot-collagen.webp",
+    "size": "15 × 50 ml shots",
+    "description": "A ready-to-consume collagen supplement featuring Type I and III collagen, hyaluronic acid, Coenzyme Q10, and Vitamins C, E, B5, B6 and Biotin.",
+    "seo": "Review Nutriplus Beauty Shot Collagen ingredients, format and usage information, then follow Tatiana’s affiliate link to the Farmasi product page.",
+    "use": "Ready to consume on the go. Follow the serving directions shown on the product packaging.",
+    "highlights": [
+      "Type I + III collagen",
+      "Hyaluronic acid + Coenzyme Q10",
+      "Vitamins C, E, B5, B6 + Biotin"
+    ],
+    "ingredients": "Water, hydrolyzed collagen, citric acid, natural cranberry flavor, Vitamin C, phosphoric acid, beet root red color, hyaluronic acid, Vitamin E, sodium benzoate, potassium sorbate, sucralose, Coenzyme Q10, Vitamin B5, Vitamin B6, Biotin.",
+    "notes": "The box contains 15 shots of 50 ml each. Do not exceed the recommended daily dose. Store in a cool, dry place.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/beauty-shot-collagen.webp"
+  },
+  {
+    "slug": "electrolyte-drink-mix",
+    "name": "Nutriplus Electrolyte Drink Mix",
+    "short": "Electrolyte Drink Mix",
+    "brand": "Nutriplus",
+    "primary": "performance",
+    "tags": [
+      "wellness",
+      "performance",
+      "hydration"
+    ],
+    "image": "electrolyte-drink-mix.webp",
+    "size": "14 effervescent tablets",
+    "description": "Raspberry-flavored effervescent electrolyte tablets designed for a convenient hydration drink. The supplied product information lists potassium, magnesium and a Stevia-based sweetener.",
+    "seo": "See Nutriplus Electrolyte Drink Mix directions, ingredients and product details, with a direct link to shop through Tatiana on Farmasi.",
+    "use": "Adults are recommended to dissolve 2 effervescent tablets in 500 ml of water once a day.",
+    "highlights": [
+      "Natural raspberry flavor",
+      "Effervescent tablet format",
+      "Sugar-free per supplied product information"
+    ],
+    "ingredients": "Sodium hydrogen carbonate, citric acid, sorbitol, potassium magnesium citrate, natural raspberry flavor, polyethylene glycol, malic acid, beet root red, magnesium oxide, steviol glycosides.",
+    "notes": "Supplied product information lists it as non-GMO, gluten-free, dairy-free, caffeine-free and sugar-free.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/electrolyte-drink-mix.webp"
+  },
+  {
+    "slug": "hydro-drops",
+    "name": "Nutriplus Hydro Drops",
+    "short": "Hydro Drops",
+    "brand": "Nutriplus",
+    "primary": "wellness",
+    "tags": [
+      "wellness",
+      "beauty",
+      "hydration"
+    ],
+    "image": "hydro-drops.webp",
+    "size": "30 ml / 1 fl oz",
+    "description": "A daily drink preparation combining hyaluronic acid, Vitamin C and bitter orange extract for a beauty-and-wellness routine.",
+    "seo": "Explore Nutriplus Hydro Drops with hyaluronic acid and Vitamin C, including usage and ingredient details plus Tatiana’s Farmasi shopping link.",
+    "use": "Consume daily according to the product label as part of your skincare and wellness routine.",
+    "highlights": [
+      "Hyaluronic acid",
+      "Vitamin C",
+      "Bitter orange extract"
+    ],
+    "ingredients": "Deionized water, hyaluronic acid, L-ascorbic acid (Vitamin C), bitter orange extract preparation, citric acid, potassium sorbate, sodium benzoate.",
+    "notes": "Supplied product information lists the formula as gluten-free, paraben-free and vegan.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/hydro-drops.webp"
+  },
+  {
+    "slug": "l-carnitine-shot",
+    "name": "Nutriplus L-Carnitine Shot",
+    "short": "L-Carnitine Shot",
+    "brand": "Nutriplus",
+    "primary": "performance",
+    "tags": [
+      "wellness",
+      "performance",
+      "fitness"
+    ],
+    "image": "l-carnitine-shot.webp",
+    "size": "50 ml / 1.69 fl oz",
+    "description": "A ready-to-use L-carnitine shot with green tea extract and Vitamin B6, designed to fit into an active lifestyle and workout routine.",
+    "seo": "Learn about Nutriplus L-Carnitine Shot with green tea extract and Vitamin B6, including directions, ingredients and Farmasi shopping link.",
+    "use": "Consume one shot daily before or after workouts according to the product directions.",
+    "highlights": [
+      "L-Carnitine",
+      "Green tea extract",
+      "Vitamin B6"
+    ],
+    "ingredients": "Purified water, L-carnitine, glycerin, citric acid, natural orange flavoring, green tea extract, Vitamin B6, potassium sorbate, sodium benzoate, sucralose, stevia.",
+    "notes": "Supplied product information lists this formula as caffeine-free, non-GMO, gluten-free and sugar-free.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/l-carnitine-shot.webp"
+  },
+  {
+    "slug": "cc-body-lotion",
+    "name": "DR. C. TUNA CC Body Lotion",
+    "short": "CC Body Lotion",
+    "brand": "DR. C. TUNA",
+    "primary": "beauty",
+    "tags": [
+      "beauty",
+      "body",
+      "glow"
+    ],
+    "image": "cc-body-lotion.webp",
+    "size": "110 ml / 3.7 fl oz",
+    "description": "A skincare-infused body enhancer with encapsulated pigment technology that activates during application for an even, radiant-looking, second-skin finish. The formula includes niacinamide, ceramides and shea butter.",
+    "seo": "Explore DR. C. TUNA CC Body Lotion, how to apply it, featured ingredients and product details, then shop through Tatiana on Farmasi.",
+    "use": "Apply to clean, dry skin. Massage to activate the encapsulated pigments, blend evenly across desired areas, and allow to set before dressing.",
+    "highlights": [
+      "Adaptive pigment technology",
+      "Niacinamide + ceramides",
+      "Shea butter"
+    ],
+    "ingredients": "Includes shea butter, ceramide NP, Vitamin E and mineral pigments among the listed ingredients.",
+    "notes": "Application areas listed in the supplied product information include shoulders, arms, legs and collarbone. Avoid the face.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/cc-body-lotion.webp"
+  },
+  {
+    "slug": "cleansing-balm",
+    "name": "DR. C. TUNA Cleansing Balm",
+    "short": "Cleansing Balm",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "cleanser",
+      "makeup-removal"
+    ],
+    "image": "cleansing-balm.webp",
+    "size": "95 ml / 3.21 fl oz",
+    "description": "A cleansing balm that transforms into an oil to remove long-lasting makeup while hydrating the skin.",
+    "seo": "See DR. C. TUNA Cleansing Balm product details, how to use it and highlighted ingredients, with a link to shop on Farmasi through Tatiana.",
+    "use": "Apply to dry skin with fingertips. Gently massage, then rinse well with warm water. Continue with your usual skincare routine.",
+    "highlights": [
+      "Oil-transforming balm",
+      "Makeup removal",
+      "Shea butter + Vitamin E"
+    ],
+    "ingredients": "Highlighted ingredients include shea butter, caprylic/capric triglycerides, butylene glycol and Vitamin E.",
+    "notes": "For external cosmetic use.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/cleansing-balm.webp"
+  },
+  {
+    "slug": "glow-face-mist",
+    "name": "DR. C. TUNA Glow Face Mist",
+    "short": "Glow Face Mist",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "beauty",
+      "glow"
+    ],
+    "image": "glow-face-mist.webp",
+    "size": "80 ml / 2.7 fl oz",
+    "description": "An ultra-fine face mist for a quick layer of hydration and a refreshed, healthy-looking glow. The supplied formula information highlights 3% stabilized Vitamin C, 3% niacinamide, aloe vera and chamomile water.",
+    "seo": "Explore DR. C. TUNA Glow Face Mist with 3% Vitamin C and 3% niacinamide, including usage, ingredient details and Farmasi shopping link.",
+    "use": "Close your eyes and hold the bottle 20–30 cm (8–12 inches) from your face. Mist evenly over bare skin or over makeup.",
+    "highlights": [
+      "3% stabilized Vitamin C",
+      "3% niacinamide",
+      "Aloe vera + chamomile water"
+    ],
+    "ingredients": "Water, butylene glycol, chamomile flower water, aloe vera leaf juice, niacinamide, sodium ascorbyl phosphate, glycerin, panthenol and other listed ingredients.",
+    "notes": "Supplied product information describes it as suitable for all skin types and daily use.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/glow-face-mist.webp"
+  },
+  {
+    "slug": "highlighter-stick",
+    "name": "FARMASI Highlighter Stick",
+    "short": "Highlighter Stick",
+    "brand": "FARMASI",
+    "primary": "beauty",
+    "tags": [
+      "beauty",
+      "makeup",
+      "glow"
+    ],
+    "image": "highlighter-stick.webp",
+    "size": "",
+    "description": "A creamy, glide-on highlighter designed for face and décolleté with buildable champagne radiance.",
+    "seo": "Discover the FARMASI Highlighter Stick, how to apply its buildable champagne radiance and the highlighted ingredients, then shop via Tatiana.",
+    "use": "Swipe directly onto the high points of the face or any area you want to illuminate, then blend with fingertips or a small brush. Build in thin layers.",
+    "highlights": [
+      "Buildable champagne radiance",
+      "Face + décolleté",
+      "Squalane + Vitamin E"
+    ],
+    "ingredients": "Squalane and Vitamin E are highlighted in the supplied product information.",
+    "notes": "Cosmetic product for external use.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/highlighter-stick.webp"
+  },
+  {
+    "slug": "creatine",
+    "name": "Nutriplus+ Creatine Unflavored",
+    "short": "Creatine Unflavored",
+    "brand": "Nutriplus+",
+    "primary": "performance",
+    "tags": [
+      "performance",
+      "fitness",
+      "wellness"
+    ],
+    "image": "creatine.webp",
+    "size": "150 g / 5.3 oz · 30 servings",
+    "description": "An unflavored creatine monohydrate formula delivering 5 g per serving, with Vitamin B6 included in the formula.",
+    "seo": "Review Nutriplus+ Creatine Unflavored, 5 g creatine monohydrate per serving, directions, ingredients and a link to shop through Tatiana.",
+    "use": "Mix 2 scoops (5.1 g) with 100 ml of water or your preferred beverage and consume after your workout.",
+    "highlights": [
+      "5 g creatine monohydrate per serving",
+      "Unflavored",
+      "Vitamin B6"
+    ],
+    "ingredients": "Creatine monohydrate (99.97%), pyridoxine hydrochloride (Vitamin B6) (0.03%).",
+    "notes": "Do not exceed the recommended daily serving. Food supplements do not replace normal nutrition. Review the product label and consult a healthcare professional when appropriate.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/creatine.webp"
+  },
+  {
+    "slug": "pre-workout",
+    "name": "Nutriplus+ Pre-Workout Tropical Mix",
+    "short": "Pre-Workout Tropical Mix",
+    "brand": "Nutriplus+",
+    "primary": "performance",
+    "tags": [
+      "performance",
+      "fitness",
+      "wellness"
+    ],
+    "image": "pre-workout.webp",
+    "size": "200 g / 7.01 oz · 10–20 servings",
+    "description": "A Tropical Mix pre-workout formula containing citrulline malate, beta-alanine, betaine, taurine, L-tyrosine and caffeine.",
+    "seo": "Explore Nutriplus+ Pre-Workout Tropical Mix, including directions, caffeine notice and ingredients, with a link to shop through Tatiana on Farmasi.",
+    "use": "Mix with cold water and drink 20–30 minutes before training. Men: 5 scoops (20 g) with 300–450 ml water. Women: 2.5 scoops (10 g) with 200–300 ml water. First-time users should start with a lower amount to assess tolerance.",
+    "highlights": [
+      "Tropical Mix",
+      "Contains caffeine",
+      "Pre-training formula"
+    ],
+    "ingredients": "Citrulline malate (2:1), beta-alanine, betaine anhydrous, taurine, L-tyrosine, caffeine, sodium chloride, citric acid, maltodextrin, natural flavors, beet root extract, sunflower lecithin, stevia.",
+    "notes": "For healthy adults 18+. Contains caffeine. Do not use if pregnant, nursing or sensitive to caffeine. Review the full precautions on the product label.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/pre-workout.webp"
+  },
+  {
+    "slug": "aqua-eye-cream",
+    "name": "DR. C. TUNA Aqua Revitalizing Eye Cream",
+    "short": "Aqua Revitalizing Eye Cream",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "eye-care",
+      "hydration"
+    ],
+    "image": "aqua-eye-cream.webp",
+    "size": "20 ml / 0.7 fl oz",
+    "description": "A hydrating eye cream featuring a Hyaluronic Acid Complex for the delicate eye area. The supplied product information also highlights PatcH2O® and CityGuard.",
+    "seo": "Explore DR. C. TUNA Aqua Revitalizing Eye Cream, including how to use it, highlighted ingredients and Tatiana’s Farmasi shopping link.",
+    "use": "Apply a small amount around the eye area. Using your ring finger, gently tap in a C-shape around the orbital bone until fully absorbed. Use morning and evening.",
+    "highlights": [
+      "Hyaluronic Acid Complex",
+      "PatcH2O® complex",
+      "Morning + evening use"
+    ],
+    "ingredients": "Water, glycerin, butylene glycol, sea water, hydrolyzed algin, urea, sodium hyaluronate, pullulan, serine and other listed ingredients.",
+    "notes": "Supplied product information lists the formula as dermatologically tested, cruelty-free and formulated with vegan ingredients.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/aqua-eye-cream.webp"
+  },
+  {
+    "slug": "tea-tree-cream-balsam",
+    "name": "DR. C. TUNA Tea Tree Cream Balsam",
+    "short": "Tea Tree Cream Balsam",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "tea-tree",
+      "moisturizer"
+    ],
+    "image": "tea-tree-cream-balsam.webp",
+    "size": "95 ml / 3.21 fl oz",
+    "description": "A rich Tea Tree cream balsam formulated to moisturize and soften the skin while supporting a comfortable, healthy-looking complexion.",
+    "seo": "Explore DR. C. TUNA Tea Tree Cream Balsam, including daily usage, ingredients and a direct Farmasi shopping link through Tatiana.",
+    "use": "Apply to cleansed skin by gently massaging in circular motions until fully absorbed. Use daily or as needed.",
+    "highlights": [
+      "Tea tree leaf oil",
+      "Rich cream texture",
+      "Daily or as-needed use"
+    ],
+    "ingredients": "Petrolatum, mineral oil, tea tree leaf oil, isopropyl myristate, squalene, soybean oil, carrot root extract, beta-carotene, tocopherol.",
+    "notes": "Supplied product information lists it as dermatologically tested and formulated with vegan-friendly raw materials and actives.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/tea-tree-cream-balsam.webp"
+  },
+  {
+    "slug": "tea-tree-face-toner",
+    "name": "DR. C. TUNA Tea Tree Face Toner",
+    "short": "Tea Tree Face Toner",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "tea-tree",
+      "toner"
+    ],
+    "image": "tea-tree-face-toner.webp",
+    "size": "125 ml / 4.2 fl oz",
+    "description": "A refining toner for oily and combination skin designed to purify, refresh and leave a more mattified feel without over-drying.",
+    "seo": "See DR. C. TUNA Tea Tree Face Toner directions, ingredients and product details, then shop through Tatiana’s Farmasi affiliate link.",
+    "use": "Use morning and night. After cleansing, moisten a cotton pad with toner and gently apply to the skin, avoiding the eye area.",
+    "highlights": [
+      "Tea tree leaf oil",
+      "AM + PM toner step",
+      "For oily + combination skin"
+    ],
+    "ingredients": "Water, alcohol denat., glycerin, cocamidopropyl betaine, propylene glycol, tea tree leaf oil, thyme leaf extract and other listed ingredients.",
+    "notes": "Supplied product information lists it as dermatologically tested and formulated with vegan-friendly raw materials and actives.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/tea-tree-face-toner.webp"
+  },
+  {
+    "slug": "tea-tree-face-wash",
+    "name": "DR. C. TUNA Tea Tree Face Wash",
+    "short": "Tea Tree Face Wash",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "tea-tree",
+      "cleanser"
+    ],
+    "image": "tea-tree-face-wash.webp",
+    "size": "100 ml / 3.4 fl oz",
+    "description": "A gel cleanser formulated for oily and combination skin to remove impurities and excess oil while leaving skin refreshed and comfortable.",
+    "seo": "Explore DR. C. TUNA Tea Tree Face Wash, including morning-and-night directions, ingredients and a Farmasi shopping link through Tatiana.",
+    "use": "Use morning and night. Apply gel onto damp hands and work into a lather. Gently massage over damp face and neck in circular motions, avoiding the eye area, then rinse thoroughly.",
+    "highlights": [
+      "Gel cleanser",
+      "For oily + combination skin",
+      "Tea tree + thyme extracts"
+    ],
+    "ingredients": "Water, cocamidopropyl betaine, lauryl glucoside, tea tree leaf oil, thyme leaf extract, glycerin, Vitamin E and other listed ingredients.",
+    "notes": "Supplied product information lists it as dermatologically tested and formulated with vegan-friendly raw materials and actives.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/tea-tree-face-wash.webp"
+  },
+  {
+    "slug": "tea-tree-serum",
+    "name": "DR. C. TUNA Tea Tree Serum",
+    "short": "Tea Tree Serum",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "tea-tree",
+      "serum"
+    ],
+    "image": "tea-tree-serum.webp",
+    "size": "10 ml / 0.33 fl oz",
+    "description": "A targeted facial serum with tea tree, thyme and rosemary extracts, designed for use on needed areas of clean skin.",
+    "seo": "Review DR. C. TUNA Tea Tree Serum directions, ingredients and product details, then follow Tatiana’s affiliate link to shop on Farmasi.",
+    "use": "Apply a few drops directly to needed areas on clean skin. Use morning and night, or as needed.",
+    "highlights": [
+      "Targeted serum",
+      "Tea tree + thyme + rosemary extracts",
+      "AM + PM or as needed"
+    ],
+    "ingredients": "Water, alcohol denat., polysorbate-20, tea tree leaf oil, thyme leaf extract, rosemary leaf extract and other listed ingredients.",
+    "notes": "Supplied product information lists it as dermatologically tested and formulated with vegan-friendly raw materials and actives.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/tea-tree-serum.webp"
+  },
+  {
+    "slug": "tea-tree-soap",
+    "name": "FARMASI Tea Tree Soap",
+    "short": "Tea Tree Soap",
+    "brand": "FARMASI",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "tea-tree",
+      "body"
+    ],
+    "image": "tea-tree-soap.webp",
+    "size": "125 g / 4.41 oz",
+    "description": "A Tea Tree soap for face and body that removes dirt and excess oil and is positioned for oily and combination skin.",
+    "seo": "Explore FARMASI Tea Tree Soap for face and body, with directions, ingredients and a direct link to shop through Tatiana on Farmasi.",
+    "use": "Apply to wet skin, rinse thoroughly, and dry with a clean towel.",
+    "highlights": [
+      "Face + body use",
+      "Tea tree oil",
+      "For oily + combination skin"
+    ],
+    "ingredients": "Sodium palmate, sodium palm kernelate, water, fragrance, glycerin, tea tree oil, sodium chloride and other listed ingredients.",
+    "notes": "For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "sku": "",
+    "source": "Provided FARMASI product materials",
+    "imageUrl": "/assets/products/tea-tree-soap.webp"
+  },
+  {
+    "slug": "cleanse-reset-cool-lime",
+    "name": "Nutriplus Cleanse & Reset Cool Lime",
+    "short": "Cleanse & Reset — Cool Lime",
+    "brand": "Nutriplus",
+    "primary": "cleanse",
+    "tags": [
+      "cleanse",
+      "wellness",
+      "digestive",
+      "cool-lime"
+    ],
+    "image": "cleanse-reset-cool-lime.webp",
+    "size": "20 sticks × 5 g",
+    "description": "Cool Lime-flavored soluble drink mix from the Nutriplus Cleanse & Reset range. Its packaging highlights Orafti® inulin prebiotic fiber and a convenient stick format.",
+    "seo": "Explore Nutriplus Cleanse & Reset Cool Lime: ingredients and label details, product images and a link to find it on Farmasi.",
+    "use": "Mix and consume only as directed on the current Farmasi package. Confirm serving size, frequency and precautions on the product label.",
+    "highlights": [
+      "Cool Lime flavor",
+      "Orafti® inulin",
+      "Single-serve stick format"
+    ],
+    "ingredients": "Packaging identifies Orafti® inulin. Check the current Farmasi listing for the full ingredients and serving instructions.",
+    "notes": "Do not treat cleanse or detox products as a substitute for medical care. Review the packaging and consult a qualified professional if you take medications, are pregnant or have a medical condition.",
+    "sku": "1002971",
+    "source": "Farmasi US product record, SKU 1002971",
+    "imageUrl": "/assets/products/cleanse-reset-cool-lime.webp"
+  },
+  {
+    "slug": "cleanse-reset-crisp-watermelon",
+    "name": "Nutriplus Cleanse & Reset Crisp Watermelon",
+    "short": "Cleanse & Reset — Watermelon",
+    "brand": "Nutriplus",
+    "primary": "cleanse",
+    "tags": [
+      "cleanse",
+      "wellness",
+      "digestive",
+      "watermelon"
+    ],
+    "image": "cleanse-reset-crisp-watermelon.webp",
+    "size": "20 sticks × 5 g",
+    "description": "Crisp Watermelon-flavored soluble drink mix in the Nutriplus Cleanse & Reset line, with Orafti® inulin and a single-serve stick format.",
+    "seo": "Explore Nutriplus Cleanse & Reset Crisp Watermelon, a fruit-flavored soluble drink mix. See product details and visit Farmasi to confirm label information.",
+    "use": "Prepare and consume only as directed on the current Farmasi product label; review serving frequency and precautions before use.",
+    "highlights": [
+      "Crisp Watermelon flavor",
+      "Orafti® inulin",
+      "Convenient stick format"
+    ],
+    "ingredients": "The product range identifies Orafti® inulin. Refer to the current product label for the full formula and preparation instructions.",
+    "notes": "Check Farmasi for current availability and warnings. Avoid assuming cleansing claims mean a treatment for any illness.",
+    "sku": "1002968",
+    "source": "Farmasi US product record, SKU 1002968",
+    "imageUrl": "/assets/products/cleanse-reset-crisp-watermelon.webp"
+  },
+  {
+    "slug": "meal-replacement-vanilla",
+    "name": "Nutriplus Meal Replacement Shake — Vanilla",
+    "short": "Meal Replacement — Vanilla",
+    "brand": "Nutriplus",
+    "primary": "meal-replacements",
+    "tags": [
+      "meal-replacements",
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "vanilla"
+    ],
+    "image": "meal-replacement-vanilla.jpg",
+    "size": "25.7 oz / 728 g",
+    "description": "Vanilla-flavored Nutriplus meal replacement shake for weight-control nutrition. The product packaging identifies a high-protein formulation and gluten-free status.",
+    "seo": "Find Nutriplus Meal Replacement Shake Vanilla: package information, flavor, product highlights and how to view it at Farmasi.",
+    "use": "Follow the current packaging for scoop quantity, liquid amount and recommended serving. Use as part of a balanced diet.",
+    "highlights": [
+      "Vanilla flavor",
+      "Meal replacement format",
+      "High-protein formula (per label)"
+    ],
+    "ingredients": "See the current Farmasi package for the complete ingredient list, nutrition facts and allergen information.",
+    "notes": "Meal replacement products are not intended to replace all meals. Check serving, nutrition and allergen information on the label.",
+    "sku": "1000697",
+    "source": "Farmasi official product-image SKU 1000697",
+    "imageUrl": "https://content.farmasius.com/Product/1000697_400.jpg"
+  },
+  {
+    "slug": "meal-replacement-strawberry",
+    "name": "Nutriplus Meal Replacement Shake — Strawberry",
+    "short": "Meal Replacement — Strawberry",
+    "brand": "Nutriplus",
+    "primary": "meal-replacements",
+    "tags": [
+      "meal-replacements",
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "strawberry"
+    ],
+    "image": "meal-replacement-strawberry.jpg",
+    "size": "25.7 oz / 728 g",
+    "description": "Strawberry-flavored Nutriplus meal replacement shake labeled for weight-control nutrition with protein and a gluten-free formulation.",
+    "seo": "Explore Nutriplus Meal Replacement Shake Strawberry with product details and Farmasi shopping access.",
+    "use": "Check the product package for recommended preparation and serving size. Use in accordance with dietary needs and instructions.",
+    "highlights": [
+      "Strawberry flavor",
+      "Meal replacement format",
+      "Protein-containing formula"
+    ],
+    "ingredients": "Consult the current Farmasi product page or packaging for the full ingredient list, nutrition facts and allergens.",
+    "notes": "Check the official label before replacing a meal; nutrition requirements vary by person.",
+    "sku": "1000698",
+    "source": "Farmasi official product-image SKU 1000698",
+    "imageUrl": "https://content.farmasius.com/Product/1000698_400.jpg"
+  },
+  {
+    "slug": "meal-replacement-chocolate",
+    "name": "Nutriplus Meal Replacement Shake — Chocolate",
+    "short": "Meal Replacement — Chocolate",
+    "brand": "Nutriplus",
+    "primary": "meal-replacements",
+    "tags": [
+      "meal-replacements",
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "chocolate"
+    ],
+    "image": "meal-replacement-chocolate.jpg",
+    "size": "26.7 oz / 756 g (image label)",
+    "description": "Chocolate-flavored Nutriplus meal replacement shake in the brand’s weight-control range. The packaging lists protein and a gluten-free formula.",
+    "seo": "Learn about Nutriplus Meal Replacement Shake Chocolate and find product information before visiting Farmasi.",
+    "use": "Prepare according to the current package instructions and review suggested serving sizes before use.",
+    "highlights": [
+      "Chocolate flavor",
+      "Meal replacement shake",
+      "High-protein formula (per label)"
+    ],
+    "ingredients": "Review the current packaging for full ingredients, nutrition facts and allergy information.",
+    "notes": "Chocolate packaging sizes may vary by formulation; confirm the current listing before ordering.",
+    "sku": "1000699",
+    "source": "Farmasi official product-image SKU 1000699",
+    "imageUrl": "https://content.farmasius.com/Product/1000699_400.jpg"
+  },
+  {
+    "slug": "meal-replacement-cookie-crunch",
+    "name": "Nutriplus Meal Replacement Shake — Cookie Crunch",
+    "short": "Meal Replacement — Cookie Crunch",
+    "brand": "Nutriplus",
+    "primary": "meal-replacements",
+    "tags": [
+      "meal-replacements",
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "cookie"
+    ],
+    "image": "meal-replacement-cookie-crunch.png",
+    "size": "25.7 oz / 728 g (listed)",
+    "description": "Cookie Crunch-flavored Nutriplus meal replacement shake, described by Farmasi as a smooth, creamy shake with a biscuit-cookie flavor.",
+    "seo": "Discover Nutriplus Meal Replacement Shake Cookie Crunch with preparation notes and a Farmasi shopping link.",
+    "use": "Mix 4 scoops (54 g) with 200 ml of water, shake well, and follow all current label directions.",
+    "highlights": [
+      "Cookie Crunch flavor",
+      "Meal replacement formula",
+      "Smooth shake preparation"
+    ],
+    "ingredients": "See Farmasi packaging for the complete ingredients, nutrition panel and allergen information.",
+    "notes": "Use as directed on the product packaging. Check current ingredients for any food sensitivities.",
+    "sku": "1002565",
+    "source": "Farmasi US product record SKU 1002565; preparation verified from indexed Farmasi listing",
+    "imageUrl": "https://shopfarmasi.co/cdn/shop/files/nutriplus_meal_replacement_shake_cookie_crunch.png?v=1767717666"
+  },
+  {
+    "slug": "meal-replacement-cream-caramel",
+    "name": "Nutriplus Meal Replacement Shake — Cream Caramel",
+    "short": "Meal Replacement — Cream Caramel",
+    "brand": "Nutriplus",
+    "primary": "meal-replacements",
+    "tags": [
+      "meal-replacements",
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "caramel"
+    ],
+    "image": "meal-replacement-cream-caramel.webp",
+    "size": "25.7 oz (see current label)",
+    "description": "Cream Caramel-flavored Nutriplus meal replacement shake, described by Farmasi as a creamy shake with caramel flavor.",
+    "seo": "Explore Nutriplus Meal Replacement Shake Cream Caramel and view current product information on Farmasi.",
+    "use": "Follow the serving and mixing instructions on the current product packaging. Check directions before using as a meal replacement.",
+    "highlights": [
+      "Cream Caramel flavor",
+      "Meal replacement shake",
+      "Flavor-focused nutrition option"
+    ],
+    "ingredients": "Consult the current product page for full ingredients, nutrition information and allergens.",
+    "notes": "Confirm current product size and nutrition facts at Farmasi; packaging may vary.",
+    "sku": "1002566",
+    "source": "Farmasi US product record SKU 1002566",
+    "imageUrl": "https://stylesmiami.com/cdn/shop/files/1002566_400_3_1600x.webp?v=1758138064"
+  },
+  {
+    "slug": "apple-cider-vinegar-gummies",
+    "name": "Nutriplus Apple Cider Vinegar Gummies",
+    "short": "Apple Cider Vinegar Gummies",
+    "brand": "Nutriplus",
+    "primary": "weight-management",
+    "tags": [
+      "weight-management",
+      "wellness",
+      "nutrition",
+      "gummies"
+    ],
+    "image": "apple-cider-vinegar-gummies.jpg",
+    "size": "60 gummies / 165 g (image label)",
+    "description": "Apple Cider Vinegar gummies from Nutriplus. Official packaging identifies apple and pomegranate alongside inulin.",
+    "seo": "Learn about Nutriplus Apple Cider Vinegar Gummies, the product label and where to view them on Farmasi.",
+    "use": "Consult the latest Farmasi label for the recommended number of gummies, daily limit and precautions.",
+    "highlights": [
+      "Gummy format",
+      "Apple & pomegranate (per label)",
+      "Contains inulin (per label)"
+    ],
+    "ingredients": "The front label mentions apple, pomegranate and inulin. Check official packaging for complete ingredients and serving information.",
+    "notes": "This is a dietary supplement, not a treatment for weight loss or illness. Review the complete label.",
+    "sku": "1001643",
+    "source": "Farmasi official product-image SKU 1001643",
+    "imageUrl": "https://content.farmasius.com/Product/1001643_400.jpg"
+  },
+  {
+    "slug": "lumi-radiance-gel-cleanser",
+    "name": "DR. C. TUNA Lumi Radiance Brightening Gel Cleanser",
+    "short": "Lumi Radiance Gel Cleanser",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "cleanser",
+      "brightening",
+      "face-wash"
+    ],
+    "image": "lumi-radiance-gel-cleanser.jpg",
+    "size": "100 ml / 3.4 fl oz",
+    "description": "DR. C. TUNA Lumi Radiance Brightening Gel Cleanser, a facial gel cleanser in the brand’s Lumi Radiance skincare range.",
+    "seo": "Explore DR. C. TUNA Lumi Radiance Brightening Gel Cleanser: packaging, skincare category and directions to check at Farmasi.",
+    "use": "Check the current product label for application and rinsing directions, including recommended frequency and eye-area precautions.",
+    "highlights": [
+      "Lumi Radiance skincare range",
+      "Gel cleanser",
+      "100 ml packaging"
+    ],
+    "ingredients": "Refer to the official product label for complete ingredients and suitability information.",
+    "notes": "For external use. Consult the packaging for warnings and perform a patch test if appropriate.",
+    "sku": "1000300",
+    "source": "Farmasi official product-image SKU 1000300",
+    "imageUrl": "https://content.farmasius.com/Product/1000300_400.jpg"
+  },
+  {
+    "slug": "resurface-refining-cleanser",
+    "name": "DR. C. TUNA Resurface Refining Cleanser",
+    "short": "Resurface Refining Cleanser",
+    "brand": "DR. C. TUNA",
+    "primary": "skincare",
+    "tags": [
+      "skincare",
+      "cleanser",
+      "face-wash",
+      "resurface"
+    ],
+    "image": "resurface-refining-cleanser.jpg",
+    "size": "100 ml / 3.4 fl oz",
+    "description": "A creamy daily face cleanser that Farmasi describes as removing dirt, excess oil and impurities without over-drying.",
+    "seo": "Learn about DR. C. TUNA Resurface Refining Cleanser and the product’s cleansing purpose before visiting Farmasi.",
+    "use": "Follow current Farmasi package directions for applying, massaging and rinsing. Avoid contact with eyes unless the label instructs otherwise.",
+    "highlights": [
+      "Creamy cleanser",
+      "Everyday cleansing",
+      "100 ml packaging"
+    ],
+    "ingredients": "View the product label for complete formula and suitability details.",
+    "notes": "Consult the current label for precautions. Stop use if irritation occurs.",
+    "sku": "1000277",
+    "source": "Farmasi US indexed product record SKU 1000277",
+    "imageUrl": "https://content.mx.farmasi.com/Product/1000277_400.jpg"
+  }
+]

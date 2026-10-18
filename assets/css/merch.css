@@ -1,0 +1,15 @@
+.merch-hero{background:linear-gradient(120deg,#fffaf7,#f4dce4);padding:clamp(70px,9vw,130px) 0}.merch-hero h1{font:500 clamp(3rem,7vw,6.3rem)/1.06 Georgia,serif;color:#3e2b35;margin:12px 0 22px}.merch-hero p{max-width:650px;color:#66565d;font-size:1.12rem;line-height:1.7;margin:0 0 28px}.merch-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.merch-card{border:1px solid #ecdde1;border-radius:24px;overflow:hidden;background:#fff;box-shadow:0 14px 32px #3e2b3510}.merch-art{background:#fbf2f4;aspect-ratio:1;display:grid;place-items:center;padding:16px}.merch-art img{width:100%;height:100%;object-fit:contain}.merch-card-body{padding:24px}.merch-card-body h2{font:500 1.7rem Georgia,serif;margin:0 0 10px}.merch-card-body p{color:#71666a;min-height:60px}.merch-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.merch-actions .btn{font-size:.82rem;padding:11px 15px}.merch-pending{font-size:.85rem;color:#806c73}.merch-note{color:#76656d;font-size:.9rem;margin-top:32px}@media(max-width:850px){.merch-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:600px){.merch-grid{grid-template-columns:1fr}.merch-hero{padding:62px 0}.merch-card-body p{min-height:0}}
+/* V4.3: Hoodies and T-Shirts collection */
+.merch-card-body h3{font:500 clamp(1.45rem,2vw,1.85rem)/1.18 Georgia,serif;color:#3e2b35;margin:0 0 12px}
+.merch-type{color:#a4526b;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;margin-bottom:10px}
+.merch-art{position:relative;padding:22px;background:#fbf5f6}
+.merch-art img{max-width:100%;object-fit:contain}
+.merch-art-label{position:absolute;top:18px;left:18px;background:#fffefcf0;border:1px solid #ecdde1;border-radius:999px;padding:7px 13px;font-size:.78rem;font-weight:700;color:#563b46}
+.merch-art-footnote{position:absolute;bottom:15px;right:16px;color:#806e75;font-size:.73rem}
+.merch-card-body p{min-height:unset;line-height:1.65}
+.merch-swatches{display:flex;gap:10px;margin:18px 0 22px}
+.merch-swatch{width:40px;height:40px;border:1px solid #d8c8cd;border-radius:50%;padding:5px;background:#fff;cursor:pointer;display:grid;place-items:center}
+.merch-swatch span{width:27px;height:27px;border-radius:50%;border:1px solid #ddd;display:block}
+.merch-swatch.is-active,.merch-swatch:focus-visible{outline:2px solid #a44f67;outline-offset:2px}
+.merch-buy[hidden]{display:none!important}
+@media(max-width:600px){.merch-grid{grid-template-columns:1fr}.merch-card-body{padding:22px}.merch-art{padding:14px}.merch-hero h1{font-size:clamp(2.8rem,12vw,4.3rem)}}

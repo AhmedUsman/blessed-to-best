@@ -1,5 +1,6 @@
 (function(){
   const s=window.BLESSED_STORE||window.BETTER_STORE||{products:{}};
+  document.querySelectorAll('a[href="/merch/"]').forEach(a=>{if(a.textContent.trim()==='T-Shirts')a.textContent='Apparel';});
   const btn=document.querySelector('[data-menu-btn]'),menu=document.querySelector('[data-mobile-menu]');
   if(btn&&menu){btn.addEventListener('click',()=>{let o=menu.classList.toggle('open');btn.setAttribute('aria-expanded',String(o));btn.setAttribute('aria-label',o?'Close navigation':'Open navigation');});}
   document.querySelectorAll('[data-price-slug]').forEach(el=>{const c=s.products?.[el.dataset.priceSlug];if(c?.price)el.textContent=c.price;});

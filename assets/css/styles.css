@@ -111,3 +111,6 @@
   .hero-actions .btn {padding:11px 14px;font-size:.8rem}
   .page-hero h1 {font-size:clamp(2.4rem,10.2vw,3rem)}
 }
+
+/* V4.2: allow merchandise nav link without crowding */
+@media(min-width:981px){.nav-links{gap:clamp(7px,1vw,14px);font-size:.79rem}}

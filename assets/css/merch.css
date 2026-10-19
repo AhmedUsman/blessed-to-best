@@ -1,15 +1,26 @@
-.merch-hero{background:linear-gradient(120deg,#fffaf7,#f4dce4);padding:clamp(70px,9vw,130px) 0}.merch-hero h1{font:500 clamp(3rem,7vw,6.3rem)/1.06 Georgia,serif;color:#3e2b35;margin:12px 0 22px}.merch-hero p{max-width:650px;color:#66565d;font-size:1.12rem;line-height:1.7;margin:0 0 28px}.merch-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.merch-card{border:1px solid #ecdde1;border-radius:24px;overflow:hidden;background:#fff;box-shadow:0 14px 32px #3e2b3510}.merch-art{background:#fbf2f4;aspect-ratio:1;display:grid;place-items:center;padding:16px}.merch-art img{width:100%;height:100%;object-fit:contain}.merch-card-body{padding:24px}.merch-card-body h2{font:500 1.7rem Georgia,serif;margin:0 0 10px}.merch-card-body p{color:#71666a;min-height:60px}.merch-actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.merch-actions .btn{font-size:.82rem;padding:11px 15px}.merch-pending{font-size:.85rem;color:#806c73}.merch-note{color:#76656d;font-size:.9rem;margin-top:32px}@media(max-width:850px){.merch-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:600px){.merch-grid{grid-template-columns:1fr}.merch-hero{padding:62px 0}.merch-card-body p{min-height:0}}
-/* V4.3: Hoodies and T-Shirts collection */
-.merch-card-body h3{font:500 clamp(1.45rem,2vw,1.85rem)/1.18 Georgia,serif;color:#3e2b35;margin:0 0 12px}
-.merch-type{color:#a4526b;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;margin-bottom:10px}
-.merch-art{position:relative;padding:22px;background:#fbf5f6}
-.merch-art img{max-width:100%;object-fit:contain}
-.merch-art-label{position:absolute;top:18px;left:18px;background:#fffefcf0;border:1px solid #ecdde1;border-radius:999px;padding:7px 13px;font-size:.78rem;font-weight:700;color:#563b46}
-.merch-art-footnote{position:absolute;bottom:15px;right:16px;color:#806e75;font-size:.73rem}
-.merch-card-body p{min-height:unset;line-height:1.65}
-.merch-swatches{display:flex;gap:10px;margin:18px 0 22px}
-.merch-swatch{width:40px;height:40px;border:1px solid #d8c8cd;border-radius:50%;padding:5px;background:#fff;cursor:pointer;display:grid;place-items:center}
-.merch-swatch span{width:27px;height:27px;border-radius:50%;border:1px solid #ddd;display:block}
-.merch-swatch.is-active,.merch-swatch:focus-visible{outline:2px solid #a44f67;outline-offset:2px}
-.merch-buy[hidden]{display:none!important}
-@media(max-width:600px){.merch-grid{grid-template-columns:1fr}.merch-card-body{padding:22px}.merch-art{padding:14px}.merch-hero h1{font-size:clamp(2.8rem,12vw,4.3rem)}}
+/* Blessed to Best V4.5 — Apparel four-look gallery */
+.btb-merch-hero{background:radial-gradient(ellipse at 90% 20%,#f0d6de,transparent 60%),linear-gradient(115deg,#fffaf7,#faeaed);padding:clamp(62px,8vw,112px) 0}
+.btb-merch-hero h1{font:500 clamp(3rem,7vw,6rem)/1.03 Georgia,serif;color:#402e38;letter-spacing:-.035em;margin:12px 0 22px}
+.btb-merch-hero h1 em{color:#aa5671;font-weight:400}
+.btb-merch-hero p:not(.eyebrow){max-width:640px;color:#65565d;font-size:clamp(1rem,1.8vw,1.13rem);line-height:1.7;margin:0 0 26px}
+.btb-merch-collection{background:#fffaf9}
+.btb-look-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(18px,3vw,32px)}
+.btb-look-card{overflow:hidden;border:1px solid #f0e2e7;border-radius:25px;background:#fff;box-shadow:0 16px 42px rgba(80,45,56,.06)}
+.btb-look-visual{display:block;background:#f8e9e7;aspect-ratio:1.16;overflow:hidden}
+.btb-look-visual img{display:block;width:100%;height:100%;object-fit:cover;object-position:50% 13%;transition:transform .45s ease}
+a.btb-look-visual:hover img{transform:scale(1.025)}
+.btb-look-visual[hidden]{display:none!important}
+.btb-look-info{padding:clamp(20px,3vw,31px)}
+.btb-look-kicker{color:#a95773;font:.72rem/1.4 system-ui,sans-serif;font-weight:750;letter-spacing:.17em;text-transform:uppercase;margin:0 0 9px}
+.btb-look-info h2{color:#432e39;font:500 clamp(1.7rem,3vw,2.4rem)/1.1 Georgia,serif;margin:0 0 13px}
+.btb-look-info>p:not(.btb-look-kicker):not(.btb-look-pending){color:#6d5962;line-height:1.65;min-height:3.5em;margin:0 0 22px}
+.btb-look-buy{display:inline-flex;align-items:center;justify-content:center;gap:12px;border-radius:999px;background:#ad5673;color:#fff!important;min-height:48px;padding:13px 22px;font:700 .94rem system-ui,sans-serif;text-decoration:none;transition:background .2s ease}
+.btb-look-buy:hover{background:#89415c}
+.btb-look-buy:focus-visible{outline:3px solid #533444;outline-offset:3px}
+.btb-look-buy[hidden]{display:none!important}
+.btb-look-pending{color:#8a7580;font-size:.85rem;margin:0}
+.btb-merch-disclaimer{margin:32px 0 0;color:#796c71;font-size:.86rem;line-height:1.6}
+@media(max-width:680px){.btb-merch-hero{padding:58px 0 60px}.btb-merch-hero h1{font-size:clamp(2.65rem,10vw,4.2rem)}.btb-look-grid{grid-template-columns:1fr;gap:20px}.btb-look-visual{aspect-ratio:1.24}.btb-look-info{padding:22px}.btb-look-info>p:not(.btb-look-kicker):not(.btb-look-pending){min-height:0}.btb-look-buy{width:100%}}
+@media(prefers-reduced-motion:reduce){.btb-look-visual img{transition:none}}
+
+@media(max-width:680px){.btb-merch-collection .section-head{display:block}.btb-merch-collection .section-head>p{max-width:34ch;margin-top:14px}}

@@ -1,0 +1,8 @@
+
+/* BTB MERCH CROSSFADE V4.5 START */
+.btb-apparel-products.btb-merch-rotator{background:#f7e7e4;isolation:isolate}
+.btb-merch-rotator .btb-merch-frame{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;opacity:0;transition:opacity 1.2s ease-in-out;will-change:opacity;pointer-events:none}
+.btb-merch-rotator .btb-merch-frame.is-active{opacity:1}
+@media(max-width:680px){.btb-apparel-products.btb-merch-rotator{height:clamp(190px,53vw,320px)}.btb-merch-rotator .btb-merch-frame{object-fit:cover;object-position:center}}
+@media(prefers-reduced-motion:reduce){.btb-merch-rotator .btb-merch-frame{transition:none;will-change:auto}}
+/* BTB MERCH CROSSFADE V4.5 END */

@@ -1,0 +1,22 @@
+/* Blessed to Best: V4.6 static merch banner. Scoped; no JavaScript animation. */
+.btb-static-drop { padding:clamp(25px,4vw,62px) 0; background:#fff; }
+.btb-static-drop-wrap { border-radius:clamp(18px,2.4vw,30px); overflow:hidden; border:1px solid rgba(147,89,101,.13); box-shadow:0 15px 45px rgba(71,39,54,.07); background:#fcf5f2; }
+.btb-static-drop-desktop { display:block; position:relative; line-height:0; }
+.btb-static-drop-desktop img { display:block; width:100%; height:auto; object-fit:contain; }
+.btb-static-drop-desktop:focus-visible { outline:4px solid #ad5572; outline-offset:-4px; }
+.btb-static-drop-mobile { display:none; }
+@media (max-width:680px) {
+  .btb-static-drop {padding:30px 0 44px;}
+  .btb-static-drop-desktop {display:none;}
+  .btb-static-drop-mobile {display:block;}
+  .btb-static-drop-copy {padding:29px 23px 10px; background:radial-gradient(circle at 95% 0%,#f9e3e2,transparent 80%),#fff8f6;}
+  .btb-static-drop-eyebrow {margin:0 0 11px; color:#a95470; font:700 .69rem/1.4 system-ui,sans-serif; letter-spacing:.12em;}
+  .btb-static-drop-copy h2 {margin:0 0 13px; color:#432f3a; font:500 clamp(2.25rem,8.8vw,3.4rem)/1.02 Georgia,'Times New Roman',serif; letter-spacing:-.04em;}
+  .btb-static-drop-copy h2 em {display:block; color:#a95470; font-weight:400;}
+  .btb-static-drop-copy>p:not(.btb-static-drop-eyebrow) {max-width:36ch; margin:0 0 18px; color:#65515c; font:400 .94rem/1.56 system-ui,sans-serif;}
+  .btb-static-drop-button {display:inline-flex; align-items:center; justify-content:center; gap:10px; min-height:48px; padding:12px 19px; border-radius:999px; background:#ad5572; color:#fff!important; font:700 .92rem/1.2 system-ui,sans-serif; text-decoration:none;}
+  .btb-static-drop-button:hover,.btb-static-drop-button:focus-visible{background:#893e59;}
+  .btb-static-drop-button:focus-visible {outline:3px solid #432f3a; outline-offset:3px;}
+  .btb-static-drop-mobile>img {display:block; width:100%; height:auto; margin:0;}
+}
+@media (max-width:350px) {.btb-static-drop-copy {padding:25px 18px 9px;} .btb-static-drop-copy h2 {font-size:2.15rem;}}
